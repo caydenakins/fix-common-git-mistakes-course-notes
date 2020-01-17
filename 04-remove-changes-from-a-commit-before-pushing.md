@@ -37,4 +37,6 @@ Now, you can `git add index.html` and `git commit -m "Adds desc for index"` to f
 
 # Personal Take
 
+Overall solid lesson, I like how descriptive Chris is when detailing his examples. I find myself having a question about where to find something or a concern with a procedure only to have it answered by Chris shortly after.
+
 # Resources
