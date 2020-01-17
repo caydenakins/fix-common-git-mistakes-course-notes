@@ -2,7 +2,7 @@
 
 # 04. Remove Changes from a Commit Before Pushing
 
-Inside of the `app.js` created earlier, we can create a function `helloWorld` that will simply `alert("hello!")`. Later, you might close that file and open the `index.html` and make changes to that file.
+Inside of the `app.js` created earlier, we can create a function `helloWorld` that contains `alert("hello!")`. Later, you might close that file and open the `index.html` and make changes to that file.
 
 ## app.js
 ```js
