@@ -26,3 +26,9 @@ After typing the commit message, we see we typed it incorrectly and want to chan
 `git commit --amend` is a very useful feature I know I'll use in the future should I mess up my commit messages. There are plenty of times I would simply just abandon a commit to retype a message, as I had no idea this feature existed. I like the simplicity of this lesson, the approach helps all levels of experience.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="[https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/01-change-a-commit-message-that-hasnt-been-pushed-yet.md](https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/01-change-a-commit-message-that-hasnt-been-pushed-yet.md)">Next -></a>  
+</p>
