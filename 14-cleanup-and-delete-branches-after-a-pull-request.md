@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/15-change-the-commit-message-of-a-previous-commit-with-interactive-rebase.md">Next -></a>  
+</p>

@@ -13,3 +13,9 @@ Once you find the commit you need to return to to recover your code, run `git re
 I like that this lesson answered the cliffhanger of the last lesson. We were shown a `git reset --hard`, but advised to not do so because it'd delete work. However, this shows what to do in the event it happens. I like the explanations on this lesson a lot.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/07-undo-a-commit-that-has-already-been-pushed.md">Next -></a>  
+</p>

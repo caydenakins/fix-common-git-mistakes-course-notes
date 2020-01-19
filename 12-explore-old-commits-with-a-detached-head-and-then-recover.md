@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/13-fix-a-pull-request-that-has-a-merge-conflict.md">Next -></a>  
+</p>

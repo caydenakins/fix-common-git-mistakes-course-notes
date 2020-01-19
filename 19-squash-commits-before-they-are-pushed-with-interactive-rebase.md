@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/20-completely-remove-a-file-from-pushed-git-history.md">Next -></a>  
+</p>

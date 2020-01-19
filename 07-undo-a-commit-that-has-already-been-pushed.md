@@ -13,3 +13,9 @@ We are going to use `git revert {HASH}` with the hash being the commit we want t
 Another concise lesson that explained a useful command, this time one that serves as an alternative to a `git reset`. I like that it isn't overexplained and leaves the listener to look up a little bit more if they desire.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/08-push-a-new-branch-to-github-that-doesnt-exist-remotely-yet.md">Next -></a>  
+</p>

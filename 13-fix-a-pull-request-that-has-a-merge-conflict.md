@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/14-cleanup-and-delete-branches-after-a-pull-request.md">Next -></a>  
+</p>

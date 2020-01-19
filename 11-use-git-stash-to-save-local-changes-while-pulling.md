@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/12-explore-old-commits-with-a-detached-head-and-then-recover.md">Next -></a>  
+</p>

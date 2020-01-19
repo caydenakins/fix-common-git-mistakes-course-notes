@@ -5,3 +5,9 @@
 # Personal Take
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/19-squash-commits-before-they-are-pushed-with-interactive-rebase.md">Next -></a>  
+</p>

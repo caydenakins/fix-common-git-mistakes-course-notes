@@ -30,5 +30,5 @@ After typing the commit message, we see we typed it incorrectly and want to chan
 ---
 
 <p align="center">  
-<a href="[https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/01-change-a-commit-message-that-hasnt-been-pushed-yet.md](https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/01-change-a-commit-message-that-hasnt-been-pushed-yet.md)">Next -></a>  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/02-add-more-files-and-changes-to-a-commit-before-pushing.md">Next -></a>  
 </p>

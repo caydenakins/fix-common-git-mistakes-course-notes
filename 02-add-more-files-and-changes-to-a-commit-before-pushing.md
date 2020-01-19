@@ -32,3 +32,9 @@ Now that we have our `script` tag added to our `index.html`, when we do `git sta
 This lesson was very straightforward with a desired end goal that it achieved. I also like the fact that the lessons are very ordinary mistakes everyone makes, hence the name 'Fix Common Git Mistakes'. These short lessons with commentary are great for people to jump in to a lesson/title they recognize.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/03-remove-files-from-staging-before-committing.md">Next -></a>  
+</p>

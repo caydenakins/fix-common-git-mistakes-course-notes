@@ -13,3 +13,9 @@ After running `git reset HEAD lib.js`, we can check if we successfully removed i
 Another very relatable lesson created for this course. If a viewer isn't aware of this command beforehand, I'm sure it'll provide a lot of use for them now.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/04-remove-changes-from-a-commit-before-pushing.md">Next -></a>  
+</p>

@@ -40,3 +40,9 @@ Now, you can `git add index.html` and `git commit -m "Adds desc for index"` to f
 Overall solid lesson, I like how descriptive Chris is when detailing his examples. I find myself having a question about where to find something or a concern with a procedure only to have it answered by Chris shortly after.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/05-use-and-compare-the-different-git-reset-options-hard-soft-and-mixed.md">Next -></a>  
+</p>

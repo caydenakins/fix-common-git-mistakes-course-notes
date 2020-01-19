@@ -25,3 +25,9 @@ Trying another reset, we can run `git add app.js` and `git commit -m "take 3"` t
 I liked this how Chris showed us the `git --help reset`, I wasn't aware of the command beforehand. Solid lesson going over three of the most common different types of resets.
 
 # Resources
+
+---
+
+<p align="center">  
+<a href="https://github.com/caydenakins/fix-common-git-mistakes-course-notes/blob/master/06-recover-local-changes-from-git-reset-hard-with-git-reflog.md">Next -></a>  
+</p>
