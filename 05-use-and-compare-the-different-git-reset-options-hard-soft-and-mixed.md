@@ -26,6 +26,8 @@ I liked this how Chris showed us the `git --help reset`, I wasn't aware of the c
 
 # Resources
 
+[When to Use Git Reset, Git Revert & Git Checkout](https://dev.to/neshaz/when-to-use-git-reset-git-revert--git-checkout-18je)
+
 ---
 
 <p align="center">  

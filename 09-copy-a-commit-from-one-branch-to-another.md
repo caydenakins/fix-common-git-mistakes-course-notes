@@ -14,6 +14,8 @@ Solid lesson introducing a new concept that helps us with branch management. Goo
 
 # Resources
 
+[Cherry Picking Info (contains great diagrams)](https://www.codementor.io/@olatundegaruba/how-to-git-cherry-pick-dyrp9pnmc)
+
 ---
 
 <p align="center">  
