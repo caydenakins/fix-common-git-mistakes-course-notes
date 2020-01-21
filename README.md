@@ -1,6 +1,6 @@
-# egghead.io Fix Common Git Mistakes Course Notes
+# egghead.io [Fix Common Git Mistakes Course Notes](https://egghead.io/courses/fix-common-git-mistakes)
 
-![](git-mistakes.png)
+<p align="center"><img src="git-mistakes.png" width="200"></p>
 
 
 This repo contains notes taken from Chris Achard's
